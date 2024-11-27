@@ -32,7 +32,6 @@
     "@redstone-finance/evm-connector": "0.7.1",
     "@redstone-finance/fuel-connector": "0.7.1",
     "@redstone-finance/internal-utils": "0.7.1",
-    "@redstone-finance/mqtt5-client": "0.7.1",
     "@redstone-finance/on-chain-relayer-common": "0.7.1",
     "@redstone-finance/oracles-smartweave-contracts": "0.7.1",
     "@redstone-finance/protocol": "0.7.1",

@@ -1,0 +1,25 @@
+{
+    "pathsToAnalyze": [
+        "**/packages/eth-contracts/contracts/*.sol",
+        "**/packages/eth-contracts/contracts/for-tests/*.sol",
+        "**/packages/evm-connector/contracts/core/*.sol",
+        "**/packages/evm-connector/contracts/data-services/*.sol",
+        "**/packages/evm-connector/contracts/libs/*.sol",
+        "**/packages/on-chain-relayer/contracts/core/*.sol",
+        "**/packages/on-chain-relayer/contracts/price-feeds/*.sol",
+        "**/packages/on-chain-relayer/contracts/price-feeds/with-rounds/*.sol",
+        "**/packages/on-chain-relayer/contracts/price-feeds/without-rounds/*.sol",
+        "**/packages/on-chain-relayer/contracts/price-feeds/interfaces/*.sol",
+        "**/packages/on-chain-relayer/contracts/price-feeds/data-services/*.sol",
+        "**/packages/on-chain-relayer/contracts/price-feeds/capped-price-feed/*.sol",
+        "**/packages/on-chain-relayer/contracts/libs/*.sol",
+        "**/packages/on-chain-relayer/contracts/erc7412/*.sol",
+        "**/packages/on-chain-relayer/contracts/custom-integrations/*.sol",
+        "**/packages/on-chain-relayer/contracts/custom-integrations/mento/*.sol",
+        "**/packages/on-chain-relayer/contracts/custom-integrations/mento/data-services/*.sol",
+        "**/packages/on-chain-relayer/contracts/custom-integrations/mento/linkedlists/*.sol",
+        "**/packages/on-chain-relayer/contracts/custom-integrations/layerbank/*.sol",
+        "**/packages/on-chain-relayer/contracts/custom-integrations/fluid/*.sol",
+        "**/packages/on-chain-relayer/contracts/custom-integrations/ethena-balancer-ratio-provider/*.sol"
+    ]
+}
